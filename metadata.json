@@ -1,0 +1,6 @@
+{
+  "name": "멍멍이의 신나는 달리기 - Puppy Run",
+  "description": "귀여운 강아지와 함께 나무와 바위 장애물을 점프하고 뼈다귀를 모으는 2D 횡스크롤 러너 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
